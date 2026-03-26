@@ -8,7 +8,7 @@ export default function App() {
         <p className="text-gray-500 mt-2">
           React + Tailwind is working 🎉
         </p>
-        <button className="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
+        <button className="mt-4 px-4 py-2 bg-primary text-white rounded-lg hover:bg-blue-600">
           Click me
         </button>
       </div>
